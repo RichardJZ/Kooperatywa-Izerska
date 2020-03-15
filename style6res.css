@@ -241,3 +241,7 @@ Attribution required
 .mt-auto{
     margin-top: auto !important;
 }
+
+.card-tailor{
+    height:50vh;
+}
