@@ -217,7 +217,7 @@ Attribution required
 .container-tailor{
     display:grid;
     grid-template-rows:100px 1fr 100px;
-    
+    height:100vh;
 
 
 }
@@ -234,7 +234,7 @@ Attribution required
 }
 
 .navbar-tailor{
-    background-color: rgb(30,200,158,.3);
+    background-color: rgb(30,200,158,.8);
 
 }
 
